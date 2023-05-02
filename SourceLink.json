@@ -27,6 +27,16 @@
             ],
             "versions": [
                 {
+                                    "version": "1.0",
+                                    "date": "2023-05-03T12:07:00-08:00",
+                                    "downloadURL": "https://github.com/iKrut0nardo/Schedule/releases/download/v1.0/ScheduleBrSTUv1.0.ipa",
+                          "localizedDescription": "New features!"
+                                ,
+                          "size": 81364,
+                          "minOSVersion": "15.0",
+                                    "maxOSVersion": "16.4"
+                        },
+                {
                     "version": "1.0-beta.0.1",
                     "date": "2023-05-01T09:00:00-08:00",
           "size": 20000000,
