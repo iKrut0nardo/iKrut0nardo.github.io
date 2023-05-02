@@ -30,7 +30,7 @@
                                     "version": "1.0",
                                     "date": "2023-05-03T12:07:00-08:00",
                                     "downloadURL": "https://github.com/iKrut0nardo/Schedule/releases/download/v1.0/ScheduleBrSTUv1.0.ipa",
-                          "localizedDescription": "New features!"
+                          "localizedDescription": "Now work only for PO6 1,2 subgroups"
                                 ,
                           "size": 81364,
                           "minOSVersion": "15.0",
