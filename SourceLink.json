@@ -8,12 +8,12 @@
     "website": "https://example.com",
     "tintColor": "#4185A9",
     "featuredApps": [
-        "com.example.schedule"
+        "local.Schedule"
     ],
     "apps": [
         {
             "name": "Schedule BrSTU",
-            "bundleIdentifier": "com.example.schedule",
+            "bundleIdentifier": "local.Schedule",
             "developerName": "iKrut0nardo",
             "subtitle": "An awesome app.",
       "localizedDescription": "This is an awesome app only available on AltStore.",
@@ -55,7 +55,7 @@
     "tintColor": "#3660A2",
     "imageURL": "https://example.com/app_update_image.png",
     "notify": false,
-      "appID": "com.example.schedule"
+      "appID": "local.Schedule"
   }
   ]
 }
